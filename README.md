@@ -18,8 +18,4 @@ Jibble is a C# console application that interacts with an OData service to manag
 - `show <employeeId>` - Shows the details of the employee with the given ID.
 - `exit` - Close the application.
 
-## Running Tests
 
-To run the tests, use the following command:
-```bash
-dotnet test
